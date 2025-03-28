@@ -4,7 +4,7 @@
     background:linear-gradient(90deg,rgb(194, 26, 26),rgb(80, 167, 199),rgb(72, 226, 72));
     border:5px solid #0033ff;
     margin-left: 200px;
-   
+    overflow:scroll;
     
 }
 .completed {
@@ -31,6 +31,7 @@
     padding: 20px;
     color: white;
     border-radius: 15px;
+    
   }
   #todo-container {
     background: rgb(41, 33, 33);
